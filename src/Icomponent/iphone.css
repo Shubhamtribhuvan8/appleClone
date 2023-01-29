@@ -1,0 +1,98 @@
+.headline{
+font-size: 56px;
+    /* line-height: 1.07143; */
+    font-weight: 600;
+    color: white;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+h3{
+    color:white ;
+}
+.back{
+    background-color: black;
+}
+.headline1{
+    font-size: 56px;
+        /* line-height: 1.07143; */
+        font-weight: 600;
+        color: black;
+        letter-spacing: -.005em;
+        font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .subhead1{
+        color: black;
+    }
+.watch,.subhead{
+    font-size: 56px;
+    /* line-height: 1.07143; */
+    font-weight: 600;
+    margin:0;
+    color: white;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.watch1{
+    background-color: black;
+}
+.apple4{
+    background-color: white;
+}
+
+
+.card-container {
+    display: flex;
+    margin-top: 1%;
+    justify-content:center;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .card {
+    width: 656px;
+    height: 484PX;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    box-sizing: border-box;
+  }
+  
+  .card img {
+    width: 100%;
+    height: 280PX;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .card h3 {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .card p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: gray;
+  }
+  .headline2{
+    font-size: 37px;
+    line-height: 1.2381;
+    font-weight: 400;
+    color: white;
+    margin:0;
+    letter-spacing: .016em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 4px;
+  }
+  .subhead11{
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+
+ 
+  
