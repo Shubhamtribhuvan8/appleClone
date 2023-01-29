@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appleClone/static/css/main.8a221e3f.css",
+    "main.js": "/appleClone/static/js/main.3a09d19f.js",
+    "static/media/5.png": "/appleClone/static/media/5.725568a77e11560ea868.png",
+    "static/media/3.png": "/appleClone/static/media/3.6667facb22dcf6f6dea6.png",
+    "static/media/2.png": "/appleClone/static/media/2.ce3ad3c3b172181b828a.png",
+    "static/media/1.png": "/appleClone/static/media/1.2842b23d076e95a1ca32.png",
+    "static/media/7.png": "/appleClone/static/media/7.eb1df8530f70d5066332.png",
+    "static/media/8.png": "/appleClone/static/media/8.fccb4a0033ae06a431c1.png",
+    "static/media/6.png": "/appleClone/static/media/6.e80ec8f608db19d477ed.png",
+    "static/media/9.png": "/appleClone/static/media/9.8304f11e71c91883a3b7.png",
+    "static/media/4.png": "/appleClone/static/media/4.f8e6417b9b0b89384eb9.png",
+    "static/media/image.avif": "/appleClone/static/media/image.f7f70d70b874f1c11d88.avif",
+    "index.html": "/appleClone/index.html",
+    "main.8a221e3f.css.map": "/appleClone/static/css/main.8a221e3f.css.map",
+    "main.3a09d19f.js.map": "/appleClone/static/js/main.3a09d19f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a221e3f.css",
+    "static/js/main.3a09d19f.js"
+  ]
+}
