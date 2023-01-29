@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/appleClone/static/css/main.8a221e3f.css",
-    "main.js": "/appleClone/static/js/main.a8c7c1ba.js",
+    "main.css": "/appleClone/static/css/main.ce7ad488.css",
+    "main.js": "/appleClone/static/js/main.32ae5adf.js",
     "static/media/5.png": "/appleClone/static/media/5.725568a77e11560ea868.png",
     "static/media/3.png": "/appleClone/static/media/3.6667facb22dcf6f6dea6.png",
     "static/media/2.png": "/appleClone/static/media/2.ce3ad3c3b172181b828a.png",
@@ -13,11 +13,11 @@
     "static/media/4.png": "/appleClone/static/media/4.f8e6417b9b0b89384eb9.png",
     "static/media/image.avif": "/appleClone/static/media/image.f7f70d70b874f1c11d88.avif",
     "index.html": "/appleClone/index.html",
-    "main.8a221e3f.css.map": "/appleClone/static/css/main.8a221e3f.css.map",
-    "main.a8c7c1ba.js.map": "/appleClone/static/js/main.a8c7c1ba.js.map"
+    "main.ce7ad488.css.map": "/appleClone/static/css/main.ce7ad488.css.map",
+    "main.32ae5adf.js.map": "/appleClone/static/js/main.32ae5adf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a221e3f.css",
-    "static/js/main.a8c7c1ba.js"
+    "static/css/main.ce7ad488.css",
+    "static/js/main.32ae5adf.js"
   ]
 }
